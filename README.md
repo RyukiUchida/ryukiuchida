@@ -1,4 +1,7 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Hi, my name is Roman</h1>
+  <h3>A novice full stack developer from Samara</h3>
+</div>
 
 <!--
 **RyukiUchida/ryukiuchida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
